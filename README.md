@@ -1,4 +1,4 @@
-# KidsGame
+# BankBuddies
 Unity Kids game
 Game based in Saving money concept
 
