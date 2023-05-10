@@ -1,4 +1,5 @@
-# BankBuddies
+# let's save together
+## BankBuddies
 Unity Kids game
 Game based in Saving money concept
 
